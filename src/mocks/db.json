@@ -1,0 +1,11 @@
+{
+  "common": {
+    "appTitle": "这是网站标题",
+    "appDescription": "这是网站描述"
+  },
+  "user": {
+    "username": "admin",
+    "password": "123456",
+    "token": "admin123456"
+  }
+}
